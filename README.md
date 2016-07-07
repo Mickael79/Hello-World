@@ -1,2 +1,2 @@
 # Hello-World
-just another repository
+I'm Mickael I'm studdying c# to build windows phone app
